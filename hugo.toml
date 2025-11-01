@@ -1,0 +1,6 @@
+baseURL = 'https://luo675.github.io.git'
+languageCode = 'en-us'
+title = 'My tech blog'
+
+
+theme = 'papermod'
