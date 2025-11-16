@@ -4,3 +4,6 @@ title = 'My tech blog'
 
 
 theme = 'papermod'
+
+[frontmatter]
+  defaultFrontmatterFormat = "yaml"
